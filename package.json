@@ -12,7 +12,9 @@
   "dependencies": {
     "react": "16.9.0",
     "react-native": "0.61.5",
-    "react-native-credit-card-input": "^0.4.1"
+    "react-native-card-connect-react-library": "github:afomic/cardConnect",
+    "react-native-credit-card-input": "^0.4.1",
+    "react-native-flash-message": "^0.1.15"
   },
   "devDependencies": {
     "@babel/core": "7.7.7",
